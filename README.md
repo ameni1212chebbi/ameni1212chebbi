@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Mobile App]
+- 🔭 I’m currently working as Co-Founder in PinguCoder
 
 - 💬 Ask me about **Web development**
 
