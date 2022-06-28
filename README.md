@@ -16,7 +16,7 @@
 
 <h3 align="left">Talk with me, I am kinda awesome:</h3>
 <a href="https://www.linkedin.com/in/ameni-chebbi-15bb6a224/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sidina-el-jeilani-625216162/" height="30" width="40" style="max-width: 100%;"></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ameni-chebbi-15bb6a224/" height="30" width="40" style="max-width: 100%;">
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
